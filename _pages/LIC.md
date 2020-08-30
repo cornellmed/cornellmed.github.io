@@ -4,5 +4,7 @@ title: "LIC Schedule"
 ---
 
 # September
-Insert schedule/google link
+
+![image](/assets/images/LIC Sep.PNG)
+
 ## past
