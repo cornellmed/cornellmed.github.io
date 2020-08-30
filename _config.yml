@@ -60,20 +60,20 @@ plugins:
 author:
   name   : Cornell Medicine
   avatar : "/assets/images/bio-photo.png"
-  bio    : Email xiw9010@nyp.org for any other resources you would like to see on this page. It's meant for you!
+  bio    : It's meant for /you/! Email [xiw9010@gmail.com](mailto:xiw9010@nyp.org) with what you would like to see on this page. 
   links:
-    - label: "Website"
+    - label: "Primary Care Schedule"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "/pct/"
+    - label: "Useful Tips"
+      icon: "fab fa-fw fa-link"
+      url: "/tips/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 footer:
   links:
