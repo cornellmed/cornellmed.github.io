@@ -6,5 +6,7 @@ main:
     url: /lic/
   - title: "Payson"
     url: /payson/
+  - title: "Other Schedule"
+    url: /phone
   - title: "Misc"
-    url: /about/
+    url: /misc

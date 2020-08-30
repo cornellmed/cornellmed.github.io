@@ -18,13 +18,14 @@ title: "Morning Report Zoom"
 | Friday September 4                       | Morning Report (Wang)                        |
 
 
-
-
-
 | **C Block Resident Conferences: 8-9 AM** |                                          |
+|------------------------------------------|----------------------------------------------|
 | Monday August 31                         | Morning Report (Sundaresh)               |
-|                                          |                                          |
+
+
+
 | **D Block Resident Conferences: 8-9 AM** |                                          |
+|------------------------------------------|----------------------------------------------|
 | Date                                     | Lecture                                      |
 | Tuesday, September 1                     | PUD/GERD (Chin)                              |
 | Wednesday, September 2                   | Grand Rounds                                 |
