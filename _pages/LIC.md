@@ -7,7 +7,8 @@ title: "LIC Schedule"
 ![image](/assets/images/LIC Sep.PNG)
 
 ### Car Schedule
-![image](/assets/images/car.PNG)
+
+![image](assets/images/Car.PNG)
 
 ### [PICC Round Zoom Link](https://weillcornell.zoom.us/j/596567353?pwd=S0ZqOHc2Tlp6bXZnT285cjNoRVZ5Zz09)
 ***
