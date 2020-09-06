@@ -8,26 +8,21 @@ title: "Morning Report Zoom"
 - [Combined](https://weillcornell.zoom.us/j/98868047198?pwd=c3J6cWdXSEV0Q3EvSWNwdmg3dXIrdz09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
-| **D Block Intern Conferences: 8-9 AM**   |                                              |
-|------------------------------------------|----------------------------------------------|
-| Date                                     | Lecture                                      |
-| Monday August 31                         | Morning Report (Sundaresh)                   |
-| Tuesday September 1                      | HTN 1 (Demopoulos)                           |
-| Wednesday September 2                    | Grand Rounds                                 |
-| Thursday September 3                     | Lipids and Primary Prevention of CAD (Roach) |
-| Friday September 4                       | Morning Report (Wang)                        |
+| D Block Intern Conferences: 8-9 AM   |
+| ------------------------------------ |
+| Date                                 | Lecture | Location |
+| Monday September 7                   | Happy Labor Day! WCIMA Closed | None |
+| Tuesday September 8                  | HTN 2 (Demopoulous) | Intern Zoom |
+| Wednesday September 9                | Grand Rounds | GR Zoom |
+| Thursday September 10                | Cardiac testing (Yaghoobzadeh) | Intern Zoom |
+| Friday September 11                  | Pre-Op Evaluation (Acinapura) |  Intern Zoom |
 
 
-| **C Block Resident Conferences: 8-9 AM** |                                          |
-|------------------------------------------|----------------------------------------------|
-| Monday August 31                         | Morning Report (Sundaresh)               |
-
-
-
-| **D Block Resident Conferences: 8-9 AM** |                                          |
-|------------------------------------------|----------------------------------------------|
-| Date                                     | Lecture                                      |
-| Tuesday, September 1                     | PUD/GERD (Chin)                              |
-| Wednesday, September 2                   | Grand Rounds                                 |
-| Thursday, September 3                    | Clinical Controversies (Sepulveda)           |
-| Friday, September 4                      | Morning Report (Wang)                        |
+| D Block Resident Conferences: 8-9 AM |
+| ------------------------------------ |
+| Date                                 | Lecture | Location |
+| Monday September 7                   | Happy Labor Day! WCIMA Closed | None |
+| Tuesday September 8                  | Obesity (Saunders) | Resident Zoom |
+| Wednesday September 9                | Grand Rounds | GR Zoom |
+| Thursday September 10                | Clinical Controversies (Hill-Pierre) | Resident Zoom  <br> |
+| Friday September 11                  | Morning Report (Wang) |
