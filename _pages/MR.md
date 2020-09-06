@@ -8,7 +8,7 @@ title: "Morning Report Zoom"
 - [Combined](https://weillcornell.zoom.us/j/98868047198?pwd=c3J6cWdXSEV0Q3EvSWNwdmg3dXIrdz09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
-| D Block Intern Conferences: 8-9 AM   | ------------------------------------ | ------------------------------------ |
+| D Block Intern Conferences: 8-9 AM   |  |  |
 | ------------------------------------ | ------------------------------------ |------------------------------------- |
 | Date                                 | Lecture | Location |
 | Monday September 7                   | Happy Labor Day! WCIMA Closed | None |
@@ -18,7 +18,7 @@ title: "Morning Report Zoom"
 | Friday September 11                  | Pre-Op Evaluation (Acinapura) |  Intern Zoom |
 
 
-| D Block Resident Conferences: 8-9 AM |------------------------------------ | ------------------------------------ |
+| D Block Resident Conferences: 8-9 AM | |   |
 | ------------------------------------ | ------------------------------------ |------------------------------------- |
 | Date                                 | Lecture | Location |
 | Monday September 7                   | Happy Labor Day! WCIMA Closed | None |
