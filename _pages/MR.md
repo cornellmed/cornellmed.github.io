@@ -3,9 +3,9 @@ permalink: /
 title: "Morning Report Zoom"
 ---
 ### Zoom Links
-- [Intern](https://weillcornell.zoom.us/j/93921635898?pwd=eUdBbTE1aXA4ZEdSTnc0UkR2bmdiQT09)
-- [Resident](https://weillcornell.zoom.us/j/97669112958?pwd=TGJGZmlacElHcjZMQ3FpTkRaTXBFQT09)
-- [Combined](https://weillcornell.zoom.us/j/98868047198?pwd=c3J6cWdXSEV0Q3EvSWNwdmg3dXIrdz09) 
+- [Intern](https://weillcornell.zoom.us/j/93433884231?pwd=RXRPZ1lwTTNodCtWb3pZNHVaOVc0QT09 )
+- [Resident](https://weillcornell.zoom.us/j/99746571589?pwd=Y25TSnZtODZDdGRFK1lTU0FjM1Q5dz09)
+- [Combined](https://weillcornell.zoom.us/j/96104287599?pwd=R3lWa1BhTnNleFByM2thbG14eGZiQT09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
 | D Block Intern Conferences: 8-9 AM   | ||
@@ -25,4 +25,4 @@ title: "Morning Report Zoom"
 | Tuesday September 8                  | Obesity (Saunders) | Resident Zoom |
 | Wednesday September 9                | Grand Rounds | GR Zoom |
 | Thursday September 10                | Clinical Controversies (Hill-Pierre) | Resident Zoom  <br> |
-| Friday September 11                  | Morning Report (Wang) |
+| Friday September 11                  | Morning Report (Wang) | resident |
