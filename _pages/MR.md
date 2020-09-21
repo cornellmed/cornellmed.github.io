@@ -8,25 +8,20 @@ title: "Morning Report Zoom"
 - [Combined](https://weillcornell.zoom.us/j/96104287599?pwd=R3lWa1BhTnNleFByM2thbG14eGZiQT09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
-| A Block Intern Conferences: 8-9 AM |                            |               |
-|------------------------------------|----------------------------------|---------------|
-| Date                               | Lecture                                      | Location      |
-| Monday September 14                | Pre-Op Evaluation (Acinapura)                | Intern Zoom   |
-| Tuesday September 15               | HTN 1 (Demopoulous)                          | Intern Zoom   |
-| Wednesday September 16             | Grand Rounds                                 | GR Zoom       |
-| Thursday September 17              | Lipids and Primary Prevention of CAD (Roach) | Intern Zoom   |
-| Friday September 18                | Morning Report (Wang)                        | Combined Zoom |
+| A Block Intern Conferences: 8-9 AM |                                                  |               |
+|------------------------------------|--------------------------------------------------|---------------|
+| Date                               | Lecture                                          | Location      |
+| Monday September 21                | AM Report (Wang)                                 | Combined Zoom |
+| Tuesday September 22               | HTN 2 (Demopoulos)                               | Intern Zoom   |
+| Wednesday September 23             | Grand Rounds                                     | GR Zoom       |
+| Thursday September 24              | Cardiac Testing (Yaghoobzadeh)                   | Intern Zoom   |
+| Friday September 25                | Diabetes Resources in WCIMA (Weinstein and Wei)  | Intern Zoom   |
 
-
-| D Block Resident Conferences: 8-9 AM |                       |               |
-|--------------------------------------|-----------------------|---------------|
-|                                      |                       | Location      |
-| Monday September 14                  | Shoulder Pain (Leung) | Resident Zoom |
-
-| A Block Resident Conferences: 8-9 AM |                                 |               |
-|--------------------------------------|---------------------------------|---------------|
-| Date                                 | Lecture                         | Location      |
-| Tuesday September 15                 | PUD/GERD (Chin)                 | Resident Zoom |
-| Wednesday September 16               | Grand Rounds                    | GR Zoom       |
-| Thursday September 17                | Clinical Controversies (Balkan) | Resident Zoom |
-| Friday September 18                  | Morning Report (Wang)           | Combined Zoom |
+| A Block Resident Conferences: 8-9 AM |                                     |               |
+|--------------------------------------|-------------------------------------|---------------|
+| Date                                 | Lecture                             | Location      |
+| Monday September 21                  | AM Report (Wang)                    | Combined Zoom |
+| Tuesday September 22                 | Obesity (Saunders)                  | Resident Zoom |
+| Wednesday September 23               | Grand Rounds                        | GR Zoom       |
+| Thursday September 24                | Clinical Controversies (Abdelghany) | Resident Zoom |
+| Friday September 25                  | Chronic Pain (Tung)                 | Resident Zoom |
