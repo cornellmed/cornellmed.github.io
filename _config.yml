@@ -60,7 +60,7 @@ plugins:
 author:
   name   : Cornell Medicine
   avatar : "/assets/images/bio-photo.png"
-  bio    : It's meant for /you/! Email [xiw9010@gmail.com](mailto:xiw9010@nyp.org) with what you would like to see on this page. 
+  bio    : For personal use. 
   links:
     - label: "Primary Care Schedule"
       icon: "fas fa-fw fa-link"
