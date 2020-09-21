@@ -3,6 +3,9 @@ permalink: /lic/
 title: "LIC Schedule"
 ---
 
+## October
+![image](/assets/images/OctLIC.png)
+
 ## September
 ![image](/assets/images/LIC Sep.PNG)
 
