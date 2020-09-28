@@ -7,6 +7,8 @@ title: "Morning Report Zoom"
 - [Resident](https://weillcornell.zoom.us/j/99746571589?pwd=Y25TSnZtODZDdGRFK1lTU0FjM1Q5dz09)
 - [Combined](https://weillcornell.zoom.us/j/96104287599?pwd=R3lWa1BhTnNleFByM2thbG14eGZiQT09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
+
+
 | B Block Intern Conferences: 8-9 AM   |                                     |               |
 |--------------------------------------|-------------------------------------|---------------|
 | Date                                 | Lecture                             | Location      |
