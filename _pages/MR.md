@@ -29,5 +29,5 @@ title: "Morning Report Zoom"
 |                                      |                               |               |
 
 | B Block Resident Conferences: 8-9 AM |                               |               |
-|              ---                        |      ---                         | Location      |
+|--------------------------------------|-------------------------------|---------------|
 | Monday October 12                    | PFT's (Mailman/LaFond)        | Resident Zoom |
