@@ -8,7 +8,8 @@ title: "Morning Report Zoom"
 - [Combined](https://weillcornell.zoom.us/j/96104287599?pwd=R3lWa1BhTnNleFByM2thbG14eGZiQT09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
-#Intern Conferences
+# Intern Conferences
+
 | C Block Intern Conferences: 8-9 AM |                                        |               |
 |------------------------------------|----------------------------------------|---------------|
 | Date                               | Lecture                                | Location      |
@@ -29,6 +30,7 @@ title: "Morning Report Zoom"
 
 
 # Resident Conferences
+
 | C Block Resident Conferences: 8-9 AM |                                    |               |
 |--------------------------------------|------------------------------------|---------------|
 | Date                                 | Lecture                            | Location      |
