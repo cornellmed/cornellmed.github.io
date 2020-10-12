@@ -8,26 +8,44 @@ title: "Morning Report Zoom"
 - [Combined](https://weillcornell.zoom.us/j/96104287599?pwd=R3lWa1BhTnNleFByM2thbG14eGZiQT09) 
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
-| B Block Intern Conferences: 8-9 AM |                                              |               |
-|------------------------------------|----------------------------------------------|---------------|
-| Date                               | Lecture                                      | Location      |
-| Monday October 5                   | AM Report (Wang)                             | Combined Zoom |
-| Tuesday October 6                  | HTN 2 (Demopoulos)                           | Intern Zoom   |
-| Wednesday October 7                | Grand Rounds                                 | GR Zoom       |
-| Thursday October 8                 | Lipids and Primary Prevention of CAD (Roach) | Intern Zoom   |
-| Friday October 9                   | Morning Report (Wang)                        | Combined Zoom |
+#Intern Conferences
+| C Block Intern Conferences: 8-9 AM |                                        |               |
+|------------------------------------|----------------------------------------|---------------|
+| Date                               | Lecture                                | Location      |
+| Monday October 12                  | Asthma  (Hall-Ross)                    | Intern Zoom   |
+| Tuesday October 13                 | Morning Report (Wang)                  | Combined Zoom |
+| Wednesday October 14               | Grand Rounds                           | GR Zoom       |
+| Thursday October 15                | Upper Respiratory Infections (Pelzman) | Intern Zoom   |
+| Friday October 16                  | Morning Report (Wang)                  | Combined Zoom |
+
+| C Block Intern Conferences: 8-9 AM |                              |               |
+|------------------------------------|------------------------------|---------------|
+| Date                               | Lecture                      | Location      |
+| Monday October 19                  | Immunizations (Morales)      | Intern Zoom   |
+| Tuesday October 20                 | Smoking Cessation (Lubansky) | Intern Zoom   |
+| Wednesday October 21               | Grand Rounds                 | GR Zoom       |
+| Thursday October 22                | COPD (Card)                  | Intern Zoom   |
+| Friday October 23                  | Morning Report (Wang)        | Combined Zoom |
 
 
-| B Block Resident Conferences: 8-9 AM |                               |               |
-|--------------------------------------|-------------------------------|---------------|
-| Date                                 | Lecture                       | Location      |
-| Monday October 5                     | AM Report (Wang)              | Combined Zoom |
-| Tuesday October 6                    | Obesity (Tchang)              | Resident Zoom |
-| Wednesday October 7                  | Grand Rounds                  | GR Zoom       |
-| Thursday October 8                   | Clinical Controversies (Bain) | Resident Zoom |
-| Friday October 9                     | Morning Report (Wang)         | Combined Zoom |
-|                                      |                               |               |
+# Resident Conferences
+| C Block Resident Conferences: 8-9 AM |                                    |               |
+|--------------------------------------|------------------------------------|---------------|
+| Date                                 | Lecture                            | Location      |
+| Tuesday October 13                   | Morning Report (Wang)              | Combined Zoom |
+| Wednesday October 14                 | Grand Rounds                       | GR Zoom       |
+| Thursday October 15                  | Clinical Controversies (Sundaresh) | Resident Zoom |
+| Friday October 16                    | Morning Report (Wang)              | Combined Zoom |
 
-| B Block Resident Conferences: 8-9 AM |                               |               |
-|--------------------------------------|-------------------------------|---------------|
-| Monday October 12                    | PFT's (Mailman/LaFond)        | Resident Zoom |
+
+| C Block Resident Conferences: 8-9 AM |                                    |               |
+|--------------------------------------|------------------------------------|---------------|
+| Monday October 19                    | Tuberculosis 1& 2 (Weinstein)      | Resident Zoom |
+| Tuesday October 20                   | Obstructive Sleep Apnea (Barone)   | Resident Zoom |
+| Wednesday October 21                 | Grand Rounds                       | GR Zoom       |
+| Thursday October 22                  | Clinical Controversies (Goldstein) | Resident Zoom |
+| Friday October 23                    | Morning Report (Wang)              | Combined Zoom |
+
+| C Block Resident Conferences: 8-9 AM |                                    |               |
+|--------------------------------------|------------------------------------|---------------|
+| Monday October 26                    | PFT's (Mailman/LaFond)             | Resident Zoom |
