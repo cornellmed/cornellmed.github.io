@@ -4,9 +4,7 @@ main:
     url: https://docs.google.com/spreadsheets/d/1AxCrxVocmG4ZwbviFX6-lAwkgqE_VBan3VI9oAm_C6I/edit#gid=752317207
   - title: "LIC"
     url: /lic/
-  - title: "Payson"
-    url: /payson/
-  - title: "Other Schedule"
-    url: /phone
+  - title: "Primary Care Tract"
+    url: /pct/
   - title: "ACR"
     url: /ACR.html
