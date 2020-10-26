@@ -9,45 +9,46 @@ title: "Morning Report Zoom"
 - [Psychosocial](https://weillcornell.zoom.us/j/208984346?pwd=WEMxYXI5ZkM5T2JYNVZqOEVUZW95dz09)
 
 # Intern Conferences
-
-| C Block Intern Conferences: 8-9 AM |                                        |               |
+| D Block Intern Conferences: 8-9 AM |                                        |               |
 |------------------------------------|----------------------------------------|---------------|
 | Date                               | Lecture                                | Location      |
-| Monday October 12                  | Asthma  (Hall-Ross)                    | Intern Zoom   |
-| Tuesday October 13                 | Morning Report (Wang)                  | Combined Zoom |
-| Wednesday October 14               | Grand Rounds                           | GR Zoom       |
-| Thursday October 15                | Upper Respiratory Infections (Pelzman) | Intern Zoom   |
-| Friday October 16                  | Morning Report (Wang)                  | Combined Zoom |
+| Monday October 26                  | Asthma  (Hall-Ross)                    | Intern Zoom   |
+| Tuesday October 27                 | Smoking Cessation (Lubansky)           | Intern Zoom   |
+| Wednesday October 28               | Grand Rounds                           | GR Zoom       |
+| Thursday October 29                | Upper Respiratory Infections (Pelzman) | Intern Zoom   |
+| Friday October 30                  | Morning Report (Wang)                  | Combined Zoom |
 
-| C Block Intern Conferences: 8-9 AM |                              |               |
-|------------------------------------|------------------------------|---------------|
-| Date                               | Lecture                      | Location      |
-| Monday October 19                  | Immunizations (Morales)      | Intern Zoom   |
-| Tuesday October 20                 | Smoking Cessation (Lubansky) | Intern Zoom   |
-| Wednesday October 21               | Grand Rounds                 | GR Zoom       |
-| Thursday October 22                | COPD (Card)                  | Intern Zoom   |
-| Friday October 23                  | Morning Report (Wang)        | Combined Zoom |
+
+| D Block Intern Conferences: 8-9 AM |                                        |               |
+|------------------------------------|----------------------------------------|---------------|
+| Date                               | Lecture                                | Location      |
+| Monday November 2                  | Morning Report (Wang)                  | Combined Zoom |
+| Tuesday November 3                 | COPD (Card)                            | Intern Zoom   |
+| Wednesday November 4               | Grand Rounds                           | GR Zoom       |
+| Thursday November 5                | Immunizations (Morales)                | Intern Zoom   |
+| Friday November 6                  | Morning Report (Wang)                  | Combined Zoom |
 
 
 # Resident Conferences
+| D Block Resident Conferences: 8-9 AM |                                     |               |
+|--------------------------------------|-------------------------------------|---------------|
+| Date                                 | Lecture                             | Location      |
+| Tuesday October 27                   | Morning Report (Wang)               | Resident Zoom |
+| Wednesday October 28                 | Grand Rounds                        | GR Zoom       |
+| Thursday October 29                  | Clinical Controversies (Rachmasari) | Resident Zoom |
+| Friday October 30                    | Morning Report (Wang)               | Combined Zoom |
 
-| C Block Resident Conferences: 8-9 AM |                                    |               |
-|--------------------------------------|------------------------------------|---------------|
-| Date                                 | Lecture                            | Location      |
-| Tuesday October 13                   | Morning Report (Wang)              | Combined Zoom |
-| Wednesday October 14                 | Grand Rounds                       | GR Zoom       |
-| Thursday October 15                  | Clinical Controversies (Sundaresh) | Resident Zoom |
-| Friday October 16                    | Morning Report (Wang)              | Combined Zoom |
+
+| D Block Resident Conferences: 8-9 AM |                                     |               |
+|------------------------------------|----------------------------------------|---------------|
+| Date                                 | Lecture                             | Location      |
+| Monday November 2                    | Morning Report (Wang)               | Combined Zoom |
+| Tuesday November 3                   | Obstructive Sleep Apnea (Barone)    | Resident Zoom |
+| Wednesday November 4                 | Grand Rounds                        | GR Zoom       |
+| Thursday November 5                  | Clinical Controversies (Leland)     | Resident Zoom |
+| Friday November 6                    | Morning Report (Wang)               | Combined Zoom |
 
 
-| C Block Resident Conferences: 8-9 AM |                                    |               |
-|--------------------------------------|------------------------------------|---------------|
-| Monday October 19                    | Tuberculosis 1& 2 (Weinstein)      | Resident Zoom |
-| Tuesday October 20                   | Obstructive Sleep Apnea (Barone)   | Resident Zoom |
-| Wednesday October 21                 | Grand Rounds                       | GR Zoom       |
-| Thursday October 22                  | Clinical Controversies (Goldstein) | Resident Zoom |
-| Friday October 23                    | Morning Report (Wang)              | Combined Zoom |
-
-| C Block Resident Conferences: 8-9 AM |                                    |               |
-|--------------------------------------|------------------------------------|---------------|
-| Monday October 26                    | PFT's (Mailman/LaFond)             | Resident Zoom |
+| D Block Resident Conferences: 8-9 AM |                                     |               |
+|                                      |                                     | Location      |
+| Monday November 9                    | Morning Report (Wang)               | Combined Zoom |
