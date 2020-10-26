@@ -50,5 +50,5 @@ title: "Morning Report Zoom"
 
 
 | D Block Resident Conferences: 8-9 AM |                                     |               |
-|                                      |                                     | Location      |
+|------------------------------------|----------------------------------------|---------------|
 | Monday November 9                    | Morning Report (Wang)               | Combined Zoom |
